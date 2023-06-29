@@ -9,7 +9,7 @@ Aprofundamento no framework Spring
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://spring.io/img/og-spring.png)
+![](https://spring.io/img/og-spring.png)#vitrinedev
 
 ## Detalhes do projeto
 
