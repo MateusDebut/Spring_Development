@@ -1,16 +1,15 @@
 # Nome do meu projeto
 
-Rápida descrição do objetivo de fazer esse projeto
+Aprofundamento no framework Spring
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :sparkles: Nome        | **Spring projects**
+| :label: Tecnologias | Java, Spring
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://spring.io/img/og-spring.png)
 
 ## Detalhes do projeto
 
